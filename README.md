@@ -14,6 +14,10 @@ https://zhuanlan.zhihu.com/p/94065316
 
 https://immi.homeaffairs.gov.au/visas/working-in-australia/skill-occupation-list
 
+### Aus 189 Visa
+
+https://www.newstarsec.com/archives/18382
+
 # GRE
 
 ### GRE preparation tips
