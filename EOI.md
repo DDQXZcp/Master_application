@@ -16,7 +16,7 @@ Score is now 85
 |职业年PY|提名职业相关专业（只有会计，工程，IT提供PY课程|5|
 |偏远地区学习|满足澳洲偏远地区2年学习的要求（高等教育）|5|
 
-Score is now 110
+Score is now 105
 
 ### From 
 https://www.newstarsec.com/archives/18382
